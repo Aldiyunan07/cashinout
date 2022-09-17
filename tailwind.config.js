@@ -12,6 +12,9 @@ module.exports = {
         cyan: colors.cyan,
         teal: colors.teal,
         'light-blue' : colors.lightBlue,
+      },
+      spacing:{
+        112 : '28rem',
       }
     },
   },
